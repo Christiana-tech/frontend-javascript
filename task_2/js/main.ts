@@ -113,7 +113,7 @@ function teachClass(todayClass: Subjects): string {
   return '';
 }
 
-console.log(teachClass('Math')); // Teaching Math
-console.log(teachClass('History')); // Teaching History
+console.log(teachClass('Math')); 
+console.log(teachClass('History'));
 
    
